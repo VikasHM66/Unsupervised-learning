@@ -1,2 +1,2 @@
 # Unsupervised-learning
-Repository containing Unsupervised Concepts, Case studies and mini projects.
+Repository containing Unsupervised Learning Concepts, Case studies and mini projects.
